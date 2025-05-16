@@ -1,0 +1,79 @@
+[c1t7]
+c1t7s1 ansible_host=10.10.20.100 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t7s2 ansible_host=10.10.20.103 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t7s3 ansible_host=10.10.20.107 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t7s4 ansible_host=10.10.20.98 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t7s5 ansible_host=10.10.20.97 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t7s6 ansible_host=10.10.20.94 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t8]
+c1t8s1 ansible_host=10.10.20.84 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t8s2 ansible_host=10.10.20.88 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t8s3 ansible_host=10.10.20.90 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t8s4 ansible_host=10.10.20.80 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t8s5 ansible_host=10.10.20.74 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t9]
+c1t9s1 ansible_host=10.10.20.62 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t9s2 ansible_host=10.10.20.66 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t9s3 ansible_host=10.10.20.70 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t9s4 ansible_host=10.10.20.60 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t9s5 ansible_host=10.10.20.53 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t10]
+c1t10s1 ansible_host=10.10.20.35 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t10s2 ansible_host=10.10.20.42 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t10s3 ansible_host=10.10.20.49 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t10s4 ansible_host=10.10.20.32 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t10s5 ansible_host=10.10.20.36 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t11]
+c1t11s1 ansible_host=10.10.20.45 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t11s2 ansible_host=10.10.20.37 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t11s3 ansible_host=10.10.20.40 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t11s4 ansible_host=10.10.20.48 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t11s5 ansible_host=10.10.20.29 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t11s6 ansible_host=10.10.20.50 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t12]
+c1t12s1 ansible_host=10.10.20.54 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t12s2 ansible_host=10.10.20.52 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t12s3 ansible_host=10.10.20.58 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t12s4 ansible_host=10.10.20.59 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t24]
+c1t24s1 ansible_host=10.10.20.179 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t24s2 ansible_host=10.10.20.177 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t24s3 ansible_host=10.10.20.184 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t24s4 ansible_host=10.10.20.187 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t23]
+c1t23s1 ansible_host=10.10.20.168 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t23s2 ansible_host=10.10.20.77 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t23s3 ansible_host=10.10.20.169 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t23s4 ansible_host=10.10.20.173 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t23s5 ansible_host=10.10.20.181 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t23s6 ansible_host=10.10.19.176 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+
+[c1t22]
+c1t22s1 ansible_host=10.10.20.159 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t22s2 ansible_host=10.10.19.217 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t22s3 ansible_host=10.10.20.157 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t22s4 ansible_host=10.10.20.165 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t22s5 ansible_host=10.10.20.101 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t22s6 ansible_host=10.10.20.162 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+[c1t21]
+c1t21s1 ansible_host=10.10.20.146 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t21s2 ansible_host=10.10.20.138 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t21s3 ansible_host=10.10.20.150 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t21s4 ansible_host=10.10.20.174 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+c1t21s5 ansible_host=10.10.20.154 ansible_user=leef ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+
+ ansible_host=10.10.20.175 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.20.173 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.167 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.166 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.165 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.158 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.160 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.162 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+ ansible_host=10.10.19.159 ansible_user=learn2earn ansible_become=yes ansible_become_method=sudo ansible_become_password=l2eenigeria ansible_ssh_pass=l2eenigeria
+
+
+
+
+
+sudo apt update -y && sudo apt install curl git jq ssh -y
